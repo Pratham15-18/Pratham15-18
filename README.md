@@ -3,7 +3,7 @@ Full-Stack Developer with hands-on experience building RESTful APIs, scalable ba
 dynamic web applications. Completed a firmware internship at IIT Ropar iHub-Awadh working on Nordic Semiconductor sensors and
 data loggers, and delivered full-stack development sessions to 200+ students as a Google Gemini Campus Ambassador. Focused on
 shipping production-ready, full-stack products using Node.js, Express.js, MongoDB, and modern frontend technologies including
-JavaScript, Three.js, and Tailwind CSS
+JavaScript, Three.js, and Tailwind CSS.
 
 
 ## 🌐 Socials:
