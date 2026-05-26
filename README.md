@@ -1,5 +1,9 @@
 # 💫 About Me:
-Full-Stack Developer passionate about building scalable web applications, RESTful APIs, and AI-powered solutions. Skilled in Node.js, Express.js, MongoDB, JavaScript, and modern frontend technologies, with experience in backend engineering, firmware testing, and AI integration. Currently exploring LLMs, RAG systems, and cloud-native development while creating production-ready projects and interactive web experiences.
+Full-Stack Developer with hands-on experience building RESTful APIs, scalable backend systems, and
+dynamic web applications. Completed a firmware internship at IIT Ropar iHub-Awadh working on Nordic Semiconductor sensors and
+data loggers, and delivered full-stack development sessions to 200+ students as a Google Gemini Campus Ambassador. Focused on
+shipping production-ready, full-stack products using Node.js, Express.js, MongoDB, and modern frontend technologies including
+JavaScript, Three.js, and Tailwind CSS
 
 
 ## 🌐 Socials:
